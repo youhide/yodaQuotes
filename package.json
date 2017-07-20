@@ -1,0 +1,19 @@
+{
+  "name": "yodaquotes",
+  "version": "1.0.0",
+  "description": "Always pass on what you have learned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youhide/yodaQuotes.git"
+  },
+  "author": "Youri T. K. K. Mattar (hideOut)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youhide/yodaQuotes/issues"
+  },
+  "homepage": "https://github.com/youhide/yodaQuotes#readme"
+}
