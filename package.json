@@ -1,6 +1,6 @@
 {
   "name": "yodaquotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Always pass on what you have learned.",
   "main": "index.js",
   "scripts": {
