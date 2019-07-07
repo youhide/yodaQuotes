@@ -1,9 +1,11 @@
 {
   "name": "yodaquotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Always pass on what you have learned.",
-  "main": "index.js",
+  "main": "./src/app.js",
+  "bin": { "yoda-quotes" : "./src/cli.js" },
   "scripts": {
+    "cli": "node ./src/cli.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
