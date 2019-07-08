@@ -6,7 +6,7 @@
   "bin": { "yoda-quotes" : "./src/cli.js" },
   "scripts": {
     "cli": "node ./src/cli.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/pack.js && exit 0"
   },
   "repository": {
     "type": "git",
